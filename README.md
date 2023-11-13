@@ -60,7 +60,7 @@ Please read [CONTRIBUTING.md](https://github.com/yourusername/fx-derivative-pric
 
 ## Authors
 
-* **Your Name** - *Initial work* - [YourUsername](https://github.com/yourusername)
+* **Amit Jha** - *Initial work* - [AIM-IT4](https://github.com/AIM-IT4)
 
 See also the list of [contributors](https://github.com/yourusername/fx-derivative-pricing/contributors) who participated in this project.
 
