@@ -56,7 +56,7 @@ Provide examples on how to use the compiled programs. For example:
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/yourusername/fx-derivative-pricing/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please contact here: jha.8@iitj.ac.in , and the process for submitting pull requests to us.
 
 ## Authors
 
@@ -64,9 +64,7 @@ Please read [CONTRIBUTING.md](https://github.com/yourusername/fx-derivative-pric
 
 See also the list of [contributors](https://github.com/yourusername/fx-derivative-pricing/contributors) who participated in this project.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
