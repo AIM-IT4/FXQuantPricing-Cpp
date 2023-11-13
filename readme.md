@@ -1,4 +1,4 @@
-# FX Derivative Pricing Models
+# Derivative Pricing Models
 
 This repository contains implementations of various financial models used to price FX derivatives. Each model captures different aspects of market behavior and mathematics to value financial derivatives accurately.
 
