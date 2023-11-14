@@ -9,7 +9,7 @@ This repository contains implementations of various FX derivative pricing models
 - `FiniteDiffMethod.cpp`: Utilizes the finite difference method to solve the Black-Scholes PDE for option pricing.
 - `MonteCarlo.cpp`: A Monte Carlo simulation-based approach to pricing FX derivatives.
 - `QuadratureMethod.cpp`: Prices FX derivatives using numerical integration techniques.
-- 'SABRHagan.cpp': Stochastic Volatility model for pricing Vanilla FX Option 
+- `SABRHagan.cpp`: Stochastic Volatility model for pricing Vanilla FX Option 
 
 ## Getting Started
 
